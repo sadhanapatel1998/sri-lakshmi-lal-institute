@@ -142,6 +142,24 @@
                             </li>
                             <li class="d-flex gap-15">
                                 <div class="offcanvas-contact-icon">
+                                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="18" viewBox="0 0 14 18"
+                                        fill="none">
+                                        <path
+                                            d="M11.8768 9.68475C11.3059 10.835 10.5331 11.9818 9.74128 13.0109C8.95198 14.0368 8.15999 14.9249 7.5643 15.5572C7.48514 15.6412 7.40956 15.7206 7.33802 15.7951C7.26648 15.7206 7.1909 15.6412 7.11174 15.5572C6.51605 14.9249 5.72406 14.0368 4.93476 13.0109C4.14299 11.9818 3.37019 10.835 2.79925 9.68475C2.22242 8.52266 1.89032 7.43373 1.89032 6.5C1.89032 3.50846 4.32934 1.08333 7.33802 1.08333C10.3467 1.08333 12.7857 3.50846 12.7857 6.5C12.7857 7.43373 12.4536 8.52266 11.8768 9.68475ZM7.33802 17.3333C7.33802 17.3333 13.8753 11.1732 13.8753 6.5C13.8753 2.91015 10.9484 0 7.33802 0C3.7276 0 0.800781 2.91015 0.800781 6.5C0.800781 11.1732 7.33802 17.3333 7.33802 17.3333Z"
+                                            fill="#6D6D6D"></path>
+                                        <path
+                                            d="M7.33802 8.66667C6.13455 8.66667 5.15894 7.69662 5.15894 6.5C5.15894 5.30338 6.13455 4.33333 7.33802 4.33333C8.54149 4.33333 9.5171 5.30338 9.5171 6.5C9.5171 7.69662 8.54149 8.66667 7.33802 8.66667ZM7.33802 9.75C9.14323 9.75 10.6066 8.29492 10.6066 6.5C10.6066 4.70507 9.14323 3.25 7.33802 3.25C5.53281 3.25 4.0694 4.70507 4.0694 6.5C4.0694 8.29492 5.53281 9.75 7.33802 9.75Z"
+                                            fill="#6D6D6D"></path>
+                                    </svg>
+                                </div>
+                                <div class="offcanvas-contact-text">
+                                    <a href="https://maps.app.goo.gl/pggPFWTojGnv4ZnS9" target="_blank"><strong>Head Office :</strong> D1, 762,
+                                        Jail Rd, near Mandoli, Shukar Bazar, Block B, Harsh Vihar, Mandoli,
+                                        Delhi, 110093</a>
+                                </div>
+                            </li>
+                            <li class="d-flex gap-15">
+                                <div class="offcanvas-contact-icon">
                                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"
                                         fill="none">
                                         <path
@@ -180,9 +198,12 @@
                         <ul>
                             <li><a href="https://www.facebook.com/profile.php?id=100091510414471" target="_blank"><i
                                         class="ri-facebook-fill"></i></a></li>
-                            <li><a href="https://www.instagram.com/sri__lakshmi__lal__institute?igsh=MWZlbDhma3I3d3Bsdg==" target="_blank"><i class="ri-instagram-fill"></i></a></li>
-                            <li><a href="https://youtube.com/@srilakshmilalinstitute?si=mNNp0Bvb0GvvuucP" target="_blank"><i class="ri-youtube-fill"></i></a></li>
-                            <li><a href="#" target="_blank"><i class="ri-twitter-x-fill"></i></a></li>
+                            <li><a href="https://www.instagram.com/sri__lakshmi__lal__institute?igsh=MWZlbDhma3I3d3Bsdg=="
+                                    target="_blank"><i class="ri-instagram-fill"></i></a></li>
+                            <li><a href="https://youtube.com/@srilakshmilalinstitute?si=mNNp0Bvb0GvvuucP"
+                                    target="_blank"><i class="ri-youtube-fill"></i></a></li>
+                            <li><a href="https://x.com/Sri_Lakshmi_Lal" target="_blank"><i
+                                        class="ri-twitter-x-fill"></i></a></li>
                             <!-- <li><a href="#" target="_blank"><i class="ri-linkedin-box-fill"></i></a></li> -->
                         </ul>
                     </div>

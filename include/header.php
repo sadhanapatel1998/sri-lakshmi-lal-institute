@@ -59,16 +59,19 @@
                         <div class="header-top-right">
                             <div class="header-top-menu-wrapper">
                                 <div class="header-nav-menu-item">
-                                    <a href="https://www.facebook.com/profile.php?id=100091510414471" target="_blank">Facebook</a>
+                                    <a href="https://www.facebook.com/profile.php?id=100091510414471"
+                                        target="_blank">Facebook</a>
                                 </div>
                                 <div class="header-nav-menu-item">
-                                    <a href="https://www.instagram.com/sri__lakshmi__lal__institute?igsh=MWZlbDhma3I3d3Bsdg==" target="_blank">Instagram</a>
+                                    <a href="https://www.instagram.com/sri__lakshmi__lal__institute?igsh=MWZlbDhma3I3d3Bsdg=="
+                                        target="_blank">Instagram</a>
                                 </div>
                                 <div class="header-nav-menu-item">
-                                    <a href="https://youtube.com/@srilakshmilalinstitute?si=mNNp0Bvb0GvvuucP" target="_blank">Youtube</a>
+                                    <a href="https://youtube.com/@srilakshmilalinstitute?si=mNNp0Bvb0GvvuucP"
+                                        target="_blank">Youtube</a>
                                 </div>
                                 <div class="header-nav-menu-item">
-                                    <a href="#">Twitter</a>
+                                    <a href="https://x.com/Sri_Lakshmi_Lal" target="_blank">Twitter</a>
                                 </div>
                             </div>
                         </div>
@@ -170,6 +173,8 @@
                                                         Technology</a></li>
                                                 <li><a href="dnys-course.php">D.N.Y.S. – Naturopathy & Yoga Science</a>
                                                 </li>
+                                                <li><a href="d-pharma.php">D. Pharma – Diploma in Pharmacy</a>
+                                                </li>
                                             </ul>
                                         </li>
 
@@ -182,6 +187,9 @@
                                                 <li><a href="bpt-course.php">B.P.T.</a></li>
                                                 <li><a href="bnys-course.php">B.N.Y.S.</a></li>
                                                 <li><a href="bott-course.php">B.O.T.T.</a></li>
+                                                <li><a href="b-pharma.php">B.Pharma – Bachelor of Pharmacy</a></li>
+                                                <li><a href="b-ed-special.php">B.Ed. (Special) – Bachelor of Special
+                                                        Education</a></li>
                                             </ul>
                                         </li>
 
@@ -355,6 +363,8 @@
                                                         Technology</a></li>
                                                 <li><a href="dnys-course.php">D.N.Y.S. – Naturopathy & Yoga Science</a>
                                                 </li>
+                                                <li><a href="d-pharma.php">D. Pharma – Diploma in Pharmacy</a>
+                                                </li>
                                             </ul>
                                         </li>
 
@@ -367,6 +377,9 @@
                                                 <li><a href="bpt-course.php">B.P.T.</a></li>
                                                 <li><a href="bnys-course.php">B.N.Y.S.</a></li>
                                                 <li><a href="bott-course.php">B.O.T.T.</a></li>
+                                                <li><a href="b-pharma.php">B.Pharma – Bachelor of Pharmacy</a></li>
+                                                <li><a href="b-ed-special.php">B.Ed. (Special) – Bachelor of Special
+                                                        Education</a></li>
                                             </ul>
                                         </li>
 
@@ -401,7 +414,7 @@
                                                 <li><a href="ma-course.php">M.A.</a></li>
                                                 <li><a href="mcom-course.php">M.Com.</a></li>
                                                 <li><a href="msc-course.php">M.Sc.</a></li>
-                                                <li><a href="bed-special.php">B.Ed. (Special Education)</a></li>
+                                                <!-- <li><a href="bed-special.php">B.Ed. (Special Education)</a></li> -->
                                             </ul>
                                         </li>
 

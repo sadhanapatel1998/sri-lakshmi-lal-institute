@@ -85,6 +85,29 @@ $seoData = [
     "canonical" => "",
     "robots" => "index, follow"
 ],
+"d-pharma.php" => [
+    "title" => "Diploma in Pharmacy (D.Pharm)",
+    "description" => "Start your career in the pharmaceutical industry with our D.Pharm program offering practical knowledge, clinical training, and excellent career opportunities.",
+    "keywords" => "D.Pharm course, diploma in pharmacy, pharmacy diploma, D Pharma admission",
+    "canonical" => "",
+    "robots" => "index, follow"
+],
+
+"b-pharma.php" => [
+    "title" => "Bachelor of Pharmacy (B.Pharm)",
+    "description" => "Pursue a B.Pharm degree to gain in-depth pharmaceutical knowledge, practical skills, and prepare for rewarding careers in healthcare and medicine.",
+    "keywords" => "B.Pharm course, bachelor of pharmacy, pharmacy degree, B Pharma admission",
+    "canonical" => "",
+    "robots" => "index, follow"
+],
+
+"b-ed-special.php" => [
+    "title" => "Bachelor of Education (Special Education) (B.Ed Special)",
+    "description" => "Develop professional teaching skills with our B.Ed Special Education program designed to prepare educators for inclusive and special education environments.",
+    "keywords" => "B.Ed Special Education, special education course, bachelor of education special, B.Ed special admission",
+    "canonical" => "",
+    "robots" => "index, follow"
+],
 
 "bsc-course.php" => [
     "title" => "Bachelor of Science (B.Sc)",
